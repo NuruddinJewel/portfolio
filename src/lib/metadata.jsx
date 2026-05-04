@@ -10,7 +10,7 @@
 export const siteMetadata = {
     title: "Nuruddin Jewel",
     description: "Full Stack Developer | MERN Stack | React | Next.js",
-    url: "https://yoursite.com",
+    url: "https://nuruddin-jewel-portfolio.vercel.app",
     github: "https://github.com/NuruddinJewel",
     linkedin: "https://www.linkedin.com/in/nuruddinjewel",
     email: "m.76jewel@gmail.com",
