@@ -26,19 +26,19 @@ const education = [
         degree: "B.Sc (Honours) in Mathematics",
         institution: "University of Chittagong",
         year: "2018 — 2022",
-        description: "Graduation Year: 2022",
+        description: "Graduation Year : 2022",
     },
     {
         degree: "HSC — Science",
         institution: "Cantonment English School and College",
         year: "2015 — 2018",
-        description: "Graduation Year: 2018",
+        description: "Graduation Year : 2018",
     },
     {
         degree: "SSC — Science",
         institution: "Southpoint School and College",
         year: "2013 — 2015",
-        description: "Graduation Year: 2015",
+        description: "Graduation Year : 2015",
     },
 ]
 
@@ -102,7 +102,7 @@ export default function AboutPage() {
                     </p>
                     <p className="text-base-content/60 leading-relaxed">
                         My journey started with HTML & CSS, and now I&apos;m diving deep into
-                        React, Next.js, Node.js and MongoDB. Always learning, always building.
+                        React, Next.js, Node.js, Express.js and MongoDB. Always learning, always building.
                     </p>
 
                     {/* Social links */}
