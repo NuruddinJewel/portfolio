@@ -50,6 +50,16 @@ export const projects = [
         featured: true,
     },
     {
+        slug: "digitools",
+        title: "DigiTools – Supercharge Your Digital Workflow",
+        description: "DigiTools is a modern digital marketplace to discover, purchase, and instantly access 200+ premium digital tools — all in one place. Built for creators, developers, and teams who move fast.",
+        tags: ["React.js", "DaisyUI", "Tailwind CSS"],
+        github: "https://github.com/NuruddinJewel/Assignment-6",
+        live: "https://nuruddinjewel-assignment-6.netlify.app/",
+        image: "/images/digitools.jpg",
+        featured: true,
+    },
+    {
         slug: "cricket",
         title: "Cricket Squad Manager",
         description: "A web application designed for cricket enthusiasts to manage a virtual team with seamless player buying and squad-cleaning functionalities.",
