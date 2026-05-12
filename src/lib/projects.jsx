@@ -12,7 +12,7 @@ export const projects = [
     {
         slug: "calculator",
         title: "Calculator",
-        description: "A responsive, user-friendly calculator for everyday math",
+        description: "A responsive, user-friendly calculator for everyday math.",
         tags: ["JavaScript", "React.js", "TailwindCSS", "DaisyUI"],
         github: "https://github.com/NuruddinJewel/React_Calculator",
         live: "https://nuruddinjewel.github.io/React_Calculator/",

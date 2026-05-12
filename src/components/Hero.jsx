@@ -7,7 +7,7 @@ import { siteMetadata } from '@/lib/metadata'
 const techStack = [
     "HTML5", "CSS3", "JavaScript (ES6+)",
     "React.js", "Next.js", "Node.js",
-    "Express.js", "MongoDB", "MERN Stack"
+    "Better-Auth", "Express.js", "MongoDB", "MERN Stack"
 ]
 
 export default function Hero() {

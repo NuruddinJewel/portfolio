@@ -1,5 +1,6 @@
 import { FaGithub, FaLinkedin, FaEnvelope, FaCode, FaGraduationCap, FaHeart, FaCss3Alt } from 'react-icons/fa'
-import { SiReact, SiNextdotjs, SiNodedotjs, SiMongodb, SiExpress, SiJavascript, SiHtml5, SiCss3, SiGit } from 'react-icons/si'
+import { SiReact, SiNextdotjs, SiNodedotjs, SiMongodb, SiExpress, SiJavascript, SiHtml5, SiGit, SiGooglecloud } from 'react-icons/si'
+import { BetterAuthIcon } from "@/components/icons/BetterAuthIcon";
 import { siteMetadata } from '@/lib/metadata'
 import Image from 'next/image'
 
@@ -8,11 +9,13 @@ const skills = [
     { name: "CSS3", icon: <FaCss3Alt className="text-blue-400" />, level: 80 },
     { name: "JavaScript", icon: <SiJavascript className="text-yellow-400" />, level: 75 },
     { name: "React.js", icon: <SiReact className="text-cyan-400" />, level: 70 },
-    { name: "Next.js", icon: <SiNextdotjs className="text-white" />, level: 60 },
-    { name: "Node.js", icon: <SiNodedotjs className="text-green-400" />, level: 55 },
-    { name: "Express.js", icon: <SiExpress className="text-gray-400" />, level: 50 },
-    { name: "MongoDB", icon: <SiMongodb className="text-green-500" />, level: 50 },
+    { name: "Next.js", icon: <SiNextdotjs className="text-white" />, level: 68 },
+    { name: "Node.js", icon: <SiNodedotjs className="text-green-400" />, level: 58 },
+    { name: "Express.js", icon: <SiExpress className="text-gray-400" />, level: 55 },
+    { name: "MongoDB", icon: <SiMongodb className="text-green-500" />, level: 62 },
     { name: "Git", icon: <SiGit className="text-orange-500" />, level: 65 },
+    { name: "Better-Auth", icon: <BetterAuthIcon className="w-5 h-5" />, level: 52 },
+    { name: "Google Cloud", icon: <SiGooglecloud />, level: 54 },
 ]
 
 const education = [
@@ -102,7 +105,7 @@ export default function AboutPage() {
                     </p>
                     <p className="text-base-content/60 leading-relaxed">
                         My journey started with HTML & CSS, and now I&apos;m diving deep into
-                        React, Next.js, Node.js, Express.js and MongoDB. Always learning, always building.
+                        React, Next.js, Node.js, Express.js, Better-Auth and MongoDB. Always learning, always building.
                     </p>
 
                     {/* Social links */}
