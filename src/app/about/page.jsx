@@ -1,6 +1,7 @@
 import { FaGithub, FaLinkedin, FaEnvelope, FaCode, FaGraduationCap, FaHeart, FaCss3Alt } from 'react-icons/fa'
 import { SiReact, SiNextdotjs, SiNodedotjs, SiMongodb, SiExpress, SiJavascript, SiHtml5, SiGit, SiGooglecloud } from 'react-icons/si'
 import { BetterAuthIcon } from "@/components/icons/BetterAuthIcon";
+import { CloudIcon } from "@/components/icons/CloudIcon";
 import { siteMetadata } from '@/lib/metadata'
 import Image from 'next/image'
 
@@ -15,7 +16,7 @@ const skills = [
     { name: "MongoDB", icon: <SiMongodb className="text-green-500" />, level: 62 },
     { name: "Git", icon: <SiGit className="text-orange-500" />, level: 65 },
     { name: "Better-Auth", icon: <BetterAuthIcon className="w-5 h-5" />, level: 52 },
-    { name: "Google Cloud", icon: <SiGooglecloud />, level: 54 },
+    { name: "Google Cloud", icon: <CloudIcon className="w-6 h-6" />, level: 54 },
 ]
 
 const education = [
