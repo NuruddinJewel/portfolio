@@ -1,12 +1,12 @@
 export const projects = [
     {
-        slug: "books",
-        title: "E-Books",
-        description: "Streamlining digital reading with a clean interface for organizing and exploring your favorite book collections.",
-        tags: ["TailwinCSS", "DaisyUI", "React.js"],
-        github: "https://github.com/NuruddinJewel/E-Books",
-        live: "https://e-books-list.surge.sh/",
-        image: "/images/ebook1.jpg",
+        slug: "e-books",
+        title: "Fable — Ebook Sharing Platform",
+        description: "Fable is a premium digital platform meticulously crafted to connect ebook lovers, avid readers, and collectors with talented, original writers.",
+        tags: ["Next.js", "Tailwind CSS", "DaisyUI", "Better-Auth", "Stripe", "MongoDB"],
+        github: "https://github.com/NuruddinJewel/BookStack",
+        live: "https://book-stack-gules.vercel.app",
+        image: "/images/books.png",
         featured: true,
     },
     {
@@ -78,6 +78,16 @@ export const projects = [
         live: "https://assignment-9-client-side-six.vercel.app",
         image: "/images/facilities.png",
         featured: true,
+    },
+    {
+        slug: "books",
+        title: "E-Books",
+        description: "Streamlining digital reading with a clean interface for organizing and exploring your favorite book collections.",
+        tags: ["TailwinCSS", "DaisyUI", "React.js"],
+        github: "https://github.com/NuruddinJewel/E-Books",
+        live: "https://e-books-list.surge.sh/",
+        image: "/images/ebook1.jpg",
+        featured: false,
     },
     {
         slug: "job_application",
