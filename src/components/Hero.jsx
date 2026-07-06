@@ -27,10 +27,10 @@ export default function Hero() {
                 <div className="flex flex-col gap-6">
 
                     {/* Badge */}
-                    <div className="glass-card w-fit px-4 py-2 rounded-full flex items-center gap-2 border border-white/10 bg-white/5">
+                    {/* <div className="glass-card w-fit px-4 py-2 rounded-full flex items-center gap-2 border border-white/10 bg-white/5">
                         <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />
                         <span className="text-sm font-medium text-white/80">Available for opportunities</span>
-                    </div>
+                    </div> */}
 
                     {/* Heading */}
                     <div>
