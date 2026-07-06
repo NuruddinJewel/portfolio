@@ -119,7 +119,7 @@ export default function ContactPage() {
                         <div>
                             <p className="font-medium text-white">Available for opportunities</p>
                             <p className="text-sm text-white/50">
-                                Open to internships, freelance & full-time roles
+                                Open to remote & full-time roles
                             </p>
                         </div>
                     </div>
