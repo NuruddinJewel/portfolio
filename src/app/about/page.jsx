@@ -1,5 +1,6 @@
 import { FaGithub, FaLinkedin, FaEnvelope, FaCode, FaGraduationCap, FaHeart, FaCss3Alt } from 'react-icons/fa'
 import { SiReact, SiNextdotjs, SiNodedotjs, SiMongodb, SiExpress, SiJavascript, SiHtml5, SiGit, SiGooglecloud } from 'react-icons/si'
+import { IoDocumentTextOutline } from 'react-icons/io5';
 import { BetterAuthIcon } from "@/components/icons/BetterAuthIcon";
 import { CloudIcon } from "@/components/icons/CloudIcon";
 import { siteMetadata } from '@/lib/metadata'
