@@ -20,6 +20,16 @@ export const projects = [
         featured: true,
     },
     {
+        slug: "game-vault",
+        title: "Gaming Oasis — Premium Game CD & Digital Marketplace",
+        description: "Gaming Oasis is a dark-mode, neon-accented premium marketplace where users can browse, buy, and track verified physical game CDs — while admins control the entire vault, order approvals, and buyer analytics.",
+        tags: ["Next.js", "TypeScript", "Express.js", "Tailwind CSS", "DaisyUI", "Better-Auth", "MongoDB"],
+        github: "https://github.com/NuruddinJewel/quest",
+        live: "https://quest-eta-one.vercel.app",
+        image: "/images/car.png",
+        featured: true,
+    },
+    {
         slug: "weather-app",
         title: "Weather App",
         description: "Real-time weather app using OpenWeather API with search functionality.",
