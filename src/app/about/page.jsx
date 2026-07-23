@@ -119,9 +119,13 @@ export default function AboutPage() {
                             className="glass-card btn btn-ghost gap-2 rounded-xl border-0">
                             <FaLinkedin size={16} /> LinkedIn
                         </a>
-                        <a href={`mailto:${siteMetadata.email}`}
+                        {/* <a href={`mailto:${siteMetadata.email}`}
                             className="glass-card btn btn-ghost gap-2 rounded-xl border-0">
                             <FaEnvelope size={16} />
+                        </a> */}
+                         <a href='https://drive.google.com/file/d/1_shbx7sJYYF2nY2Bfh6eupdG_JKG3HLm/view?usp=sharing'
+                            className="glass-card btn btn-ghost gap-2 rounded-xl border-0">
+                            <IoDocumentTextOutline size={16} /> Resume
                         </a>
                     </div>
                 </div>
