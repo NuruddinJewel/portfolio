@@ -48,8 +48,9 @@ export default function Hero() {
 
                     {/* Description */}
                     <p className="text-white/60 text-lg leading-relaxed max-w-lg">
-                        Learning the MERN Stack and building real-world projects.
-                        Passionate about clean code and creative UI design.
+                      Building real-world web applications with clean code and creative UI design.
+                        {/* Learning the MERN Stack and building real-world projects.
+                        Passionate about clean code and creative UI design. */}
                     </p>
 
                     {/* CTA Buttons */}
