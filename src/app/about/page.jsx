@@ -102,12 +102,13 @@ export default function AboutPage() {
                     </div>
 
                     <p className="text-base-content/60 leading-relaxed">
-                        I&apos;m a Applied Mathematician and passionate developer currently learning the MERN Stack.
+                        I&apos;m a Applied Mathematician and passionate developer skilled in the MERN Stack.
                         I love building projects that solve real problems and have a clean, modern UI.
                     </p>
                     <p className="text-base-content/60 leading-relaxed">
-                        My journey started with HTML & CSS, and now I&apos;m diving deep into
-                        React, Next.js, Node.js, Express.js, Better-Auth and MongoDB. Always learning, always building.
+                     My journey began with HTML & CSS and has evolved into full-stack development with React, Next.js, Node.js, Express.js, Better-Auth, and MongoDB.
+                        {/* My journey started with HTML & CSS, and now I&apos;m diving deep into
+                        React, Next.js, Node.js, Express.js, Better-Auth and MongoDB. Always learning, always building.*/}
                     </p>
 
                     {/* Social links */}
