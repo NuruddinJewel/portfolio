@@ -50,6 +50,16 @@ export const projects = [
         featured: true,
     },
     {
+            slug: "fundrise",
+            title: "FundRise — Crowdfunding Platform",
+            description: "FundRise is a modern, full-stack, credit-based crowdfunding platform built to empower creators and connect them with supporters who believe in their vision.",
+            tags: ["Next.js", "Express.js", "Tailwind CSS", "DaisyUI", "Better-Auth", "Stripe", "MongoDB"],
+            github: "https://github.com/NuruddinJewel/ZenRise",
+            live: "https://zen-rise-two.vercel.app",
+            image: "/images/fund.png",
+            featured: true,
+    },
+    {
         slug: "weather-app",
         title: "Weather App",
         description: "Real-time weather app using OpenWeather API with search functionality.",
