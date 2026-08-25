@@ -20,8 +20,9 @@ export default function ProjectsPage() {
                     </span>
                 </h1>
                 <p className="text-base-content/60 max-w-xl mx-auto">
-                    Here are some of the projects I&apos;ve built while learning the MERN Stack.
-                    Each one taught me something new.
+                    {/* Here are some of the projects I&apos;ve built while learning the MERN Stack.
+                    Each one taught me something new. */}
+                    Here are some of the projects I&apos;ve built — each one taught me something new.
                 </p>
             </div>
 
